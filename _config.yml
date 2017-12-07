@@ -1,10 +1,10 @@
 # Site settings
-title: 小小程序猿的博客
-SEOTitle: 小小程序猿的博客 | Lily Blog
+title: elliejin的博客
+SEOTitle: elliejin的博客 | ellie Blog
 header-img: img/home-bg.jpg
 email: xxx@gmail.com
-description: "这里是 @Lily 程序猿 洛菲莉 的个人博客，爱生活， 爱代码。"
-keyword: "coding 程序猿 罗福莉"
+description: "这里是jinyixuan 努力搬砖ing。"
+keyword: "coding jinyixuan"
 url: "https://luofuli.bitcron.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
